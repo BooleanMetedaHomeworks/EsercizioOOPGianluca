@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using EsercizioOOPGianluca;
 
+
+// ESERCIZIO: BIBLIOTECA VIDEOGIOCHI
+// In questo esercizio dovrai completare una semplice applicazione per gestire una collezione di videogiochi.
+// Segui i commenti "TODO" e scegli tra le opzioni proposte o completa il codice mancante.
+
 class Program
 {
     static void Main(string[] args)
